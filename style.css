@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: cadetblue;
+}
+h1{
+    font-variant: small-caps;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 50px;
+    color: darkred;
+}
+p{
+    font-size: 20px;
+}
+#firstp{
+    color: purple;
+}
+#secondp{
+    color:firebrick;
+}
